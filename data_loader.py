@@ -1,5 +1,5 @@
 import time
-path = '80.txt'
+path = 'Question.txt'
 
 
 def load_data():
